@@ -1,0 +1,404 @@
+body
+{
+    margin: 0;
+    overflow-x: hidden !important ;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.header
+{
+    position: fixed;
+    width: 100%;
+    height: 91px;
+    background-color:#128c7E;
+}
+.wtsapp
+{
+    width: 160px;
+    height: 39px;
+    margin-left: 150px;
+    margin-top: 24px;
+    float: left;
+}
+
+
+
+#globe{
+    color:red;
+    color: #fff;
+    margin-left: 24px;
+    position: absolute;
+    margin-top: 36px;
+}
+
+.lang{
+    font-size: 16px;
+    margin-top: 36px;
+    margin-left: 1166px;
+    font-family: sans-serif;
+    font-weight: 100;
+    position: absolute;
+    color: fff;
+    color: #fff;
+}
+#lag{
+    margin-left: 71px;
+    margin-top: 36px;
+    position:absolute;
+    color: #fff;
+}
+.lang:hover{
+    cursor: pointer;
+}
+#lag:hover{
+    cursor: pointer;
+}
+#globe:hover{
+    cursor: pointer;
+}
+h5
+{
+    float: left;
+    padding-left: 60px;
+    margin-top: 35px;
+    font-size: 15px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #fff;
+    font-weight: 500;
+
+}
+.ww{
+    margin-left: 42px;
+}
+.body1{
+    width: 100%;
+    height: 690px;
+    display: flex;
+}
+
+
+.title1{
+    width: 55%;
+    height: 690px;
+    
+}
+.img1{
+    width: 45%;
+    height: 690px;
+    
+
+}
+
+.parag1{
+    margin-left: 281px;
+    margin-top: 50px;
+    font-size: 19px;
+    font-family: sans-serif;
+    line-height: 1.3;
+}
+
+
+.sim-secu{
+    margin-left: 281px;
+    margin-top: 130px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+
+    
+}
+.re-msg{
+    margin-left: 281px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+    line-height: 0;
+
+}
+.parag2{
+    margin-left: 281px;
+    margin-top: -23px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Tajawal', sans-serif;
+
+}
+#imgg{
+    margin-left:53px ;
+    margin-top: 57px;
+    width: 304px;
+    height: 572px;
+}
+#right1{
+    color: #1CB39B;
+    position: absolute;
+    margin-top: -42px;
+    margin-left: 378px;
+}
+
+
+#right2{
+    color: #1CB39B;
+    position: absolute;
+    margin-top: -42px;
+    margin-left: 385px;
+}
+
+#right3{
+    color: #1CB39B;
+    position: absolute;
+    margin-top: -42px;
+    margin-left: 483px;
+}
+.andro{
+    font-size: 20px;
+    color:   #1CB39B;
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 311px;
+}
+
+.iph{
+    font-size: 20px;
+    color:   #1CB39B;
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 310px;
+
+
+}
+.mac{
+    font-size: 20px;
+    color:   #1CB39B;
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 313px;
+
+   
+}
+#aph {
+    color: #1CB39B;
+    position: absolute;
+    margin-inline: 280px;
+    margin-top: 4px;
+
+}
+.andro:hover{
+    cursor: pointer;
+}
+iph:hover{
+    cursor: pointer;
+}
+.mac:hover{
+    cursor: pointer;
+}
+#iph{
+    color: #1CB39B;
+    position: absolute;
+    margin-inline: 280px;
+    margin-top: 4px;
+}
+#aph:hover{
+    cursor: pointer;
+}
+#iph:hover{
+    cursor: pointer;
+}
+#comp{
+    cursor: pointer;
+}
+#comp{
+    color: #1CB39B;
+    position: absolute;
+    margin-inline: 280px;
+    margin-top: 4px;
+}
+.body2{
+    width: 100%;
+    height: 884px;
+    display: flex;
+}
+
+
+.title2{
+    width: 49%;
+    height: 884px;
+    background-color: rgb(225, 248, 255);
+}
+.title3{
+    width: 49%;
+    height: 884px;
+    background-color: #E7F0E4;
+    margin-left: 29px;
+}
+.imgg3{
+    margin-top: 75px;
+    margin-left: 182px;
+    display: flex;
+}
+.imgg2{
+    width: 355px;
+    height: 389px;
+    margin-top: 80px;
+    margin-left: 154px;
+}
+
+.heading{
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 83px;
+    margin-left: 140px;
+
+}
+.parag3{
+    font-size: 18px;
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    margin-top: 42px;
+    font-family: sans-serif;
+    line-height: 1.4;
+
+}
+.parag4{
+    font-size: 18px;
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    line-height: 1.4;
+    font-family: sans-serif;
+}
+a{
+    color: dodgerblue;
+}
+a:hover{
+    cursor: pointer;
+    border-bottom: 1px solid dodgerblue;
+}
+#p{
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: 'Tajawal', sans-serif;
+    margin-top: 4px;
+    word-spacing: px;
+    letter-spacing: 1px;
+    color: black;
+    opacity: .9;
+    margin-left: 210px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: -14px;
+    margin-left: 186px;
+}
+.parag5{
+    font-size: 19px;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.4;
+}
+.bttn{
+    width: 100%;
+    height: 200px;
+    background-color:#fff;
+}
+.btn{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 590px;
+    font-size: 14px;
+    color: #128c7e;
+    width: 216px;
+    height: 55px;
+    border-radius: 40px;
+    border: 2px solid   #77d7c8;
+    background: #fff;
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+.table{
+    width: 100%;
+    height: 350px;
+    background-color:#1c1e21 ;
+    font-size: 18px;
+    color: #fff;
+    line-height: .4;
+    display: flex;
+
+}
+.section-1{
+    width: 25%;
+    height:400px ;
+    margin-left: 108px;
+    font-family:  sans-serif;
+    margin-top: 39px;
+    opacity: .8;
+
+}
+.section-2{
+    width: 25%;
+    height:400px ;
+    margin-left: -64px;
+    font-family:  sans-serif;
+    margin-top: 39px;
+    opacity: .8;
+
+
+}
+.section-3{
+    width: 25%;
+    height:400px ;
+    margin-left: -85px;
+    font-family:  sans-serif;
+    margin-top: 39px;
+    opacity: .8;
+
+
+}
+.section-4{
+    width: 25%;
+    height:400px ;
+    margin-left: -75px;
+    font-family: sans-serif;
+    margin-top: 39px;
+    opacity: .8;
+
+
+}
+.list-1{
+    list-style-type: none;
+}
+.list-2{
+    list-style-type: none;
+}
+.list-3{
+    list-style-type: none;
+}
+.list-4{
+    list-style-type: none;
+}
+.last-sec{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+h3{
+    font-size: 16px;
+}
+h4:hover{
+    cursor: pointer;
+}
+#wts{
+    margin-left: 90px;
+    margin-top: 31px;
+    font-size: 16px;
+
+}
+#PT{
+    margin-left: 697px;
+    margin-top: 31px;
+    font-size: 16px;
+}
